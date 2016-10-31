@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="play_icon_path">M28.66,22 l0,0 -10.16,0 0,-5.92zM28.66,22 l0,-0 -10.16,0 0,5.92z</string>
+    <string name="pause_icon_path">M16.45,15.85 l3.5,0 0,12.28 -3.5,0zM24.05,15.88 l3.5,0 0,12.28 -3.5,0z</string>
+</resources>
